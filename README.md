@@ -27,15 +27,15 @@ We focus on predicting **driver points** and **finish probabilities** based only
 
 ---
 
-## Limitations
-- Predictions rely only on pre-race data.
-- Cannot account for unpredictable race-day events (crashes, safety cars, DNFs).
-- Forecast accuracy ceiling ~60% R².
+## Limitations  
+- Predictions rely only on **pre-race data**.  
+- Cannot account for **unpredictable race-day events** (crashes, safety cars, DNFs).  
+- Forecast accuracy ceiling of around **R² ≈ 0.60**.  
 
 ---
 
-## Future Work
-- Integrate qualifying sector times and track-specific performance.
-- Model probability of DNFs explicitly.
-- Add betting odds or external signals for more realistic uncertainty.
-- Extend to live race simulations.
+## Future Work  
+- Integrate **qualifying sector times** and **track-specific performance**.  
+- Model the **probability of DNFs** explicitly.  
+- Add **betting odds** or other external signals for more realistic uncertainty.  
+- Extend to **live race simulations**.  
